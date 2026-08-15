@@ -40,7 +40,7 @@ Official applications developed and maintained by the **SINARY** team:
 
 ---
 
-## 🛠️ Web Tools & Digital Services
+## 🌐 Web Tools & Digital Services
 
 Access practical online web tools directly on **[sinary.org/navlinks/tools](https://sinary.org/navlinks/tools/index.html)**:
 - 📄 **PDF Compressor & Tools**: Optimize and shrink PDF files instantly.
