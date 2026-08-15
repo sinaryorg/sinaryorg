@@ -96,9 +96,7 @@ Access practical online web tools directly on **[sinary.org/navlinks/tools](http
 ### 🌐 Connect with SINARY
 
 [![Official Site](https://img.shields.io/badge/Official_Site-sinary.org-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinary.org)
-
 [![Support & Donate](https://img.shields.io/badge/Support_%26_Donate-sinary.org%2Fdonate-06B6D4?style=for-the-badge&logo=heart&logoColor=white)](https://sinary.org/donate/)
-
 [![Privacy & Terms](https://img.shields.io/badge/Privacy_%26_Terms-View_Details-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white)](https://sinary.org/navlinks/legal/privacy.html)
 
 *Crafted with ❤️ by SINARY*
