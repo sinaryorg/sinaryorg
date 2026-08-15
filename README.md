@@ -31,7 +31,7 @@ Here are the official applications developed and maintained by the **SINARY** te
 
 | App | Description | Platform | Link |
 | :--- | :--- | :---: | :---: |
-| 🪶 **Kagaz** | All-in-one local workspace with block editing, interactive graph view, multi-view database tables, and web browser drawer. | Desktop | [GitHub Repo](https://github.com/sinaryorg/kagaz) • [Download](https://sinary.org/navlinks/apps/kagaz.html) |
+| <img src="https:sinary.org/assets/images/kagaz/kaga_logo.png" width="48" alt="Kagaz"> **Kagaz** | All-in-one local workspace with block editing, interactive graph view, multi-view database tables, and web browser drawer. | Desktop | [GitHub Repo](https://github.com/sinaryorg/kagaz) • [Download](https://sinary.org/navlinks/apps/kagaz.html) |
 | 🔔 **Remine Me** | Track subscriptions and never miss a renewal. Manage billing cycles, smart reminders, and local data privacy. | Desktop / Android  | [Download App](https://sinary.org/navlinks/apps/remine_me.html) |
 | 🌐 **Brass Browser** | Experience the web with speed and privacy. Built-in ad blocking, data protection, and fast navigation. | Desktop | [Download App](https://sinary.org/navlinks/apps/brass_browser.html) |
 | 🎥 **MetalOBS** | All-in-one streaming & recording studio. Dual-canvas magic, AI background removal, and multi-platform streaming. | Desktop | [Download App](https://sinary.org/navlinks/apps/metalobs.html) |
