@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1>
-    <img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" alt="SINARY Logo" width="44" height="44" style="vertical-align: middle; margin-right: 8px;" />
-    SINARY <span style="font-weight: normal; font-size: 80%;">(@sinaryorg)</span>
+  <h1 style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+    <img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" alt="SINARY Logo" width="52" height="52" />
+    <span>SINARY <span style="font-weight: normal; font-size: 80%; opacity: 0.85;">(@sinaryorg)</span></span>
   </h1>
 
   <h3>Your All-in-One Digital Ecosystem | News, Apps, Tools & Community</h3>
