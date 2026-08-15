@@ -93,12 +93,10 @@ Access practical online web tools directly on **[sinary.org/navlinks/tools](http
 
 <div align="center">
 
-### 🌐 Connect with SINARY
+### Connect with SINARY
 
-🌐 **Official Site**: [sinary.org](https://sinary.org)  
-💖 **Support & Donate**: [sinary.org/donate](https://sinary.org/donate/)  
-📜 **Privacy & Terms**: [sinary.org/navlinks/legal/privacy.html](https://sinary.org/navlinks/legal/privacy.html)
-
-*Crafted with ❤️ by SINARY*
+<img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" width="20" height="20" alt="SINARY" align="middle"> **Official Site:** [sinary.org](https://sinary.org)  
+💖 **Support & Donate:** [sinary.org/donate](https://sinary.org/donate/)  
+📜 **Privacy & Terms:** [sinary.org/navlinks/legal/privacy.html](https://sinary.org/navlinks/legal/privacy.html)
 
 </div>
