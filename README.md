@@ -95,8 +95,14 @@ Access practical online web tools directly on **[sinary.org/navlinks/tools](http
 
 ### Connect with SINARY
 
-<img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" width="20" height="20" alt="SINARY" align="middle"> **Official Site:** [sinary.org](https://sinary.org)  
-💖 **Support & Donate:** [sinary.org/donate](https://sinary.org/donate/)  
-📜 **Privacy & Terms:** [sinary.org/navlinks/legal/privacy.html](https://sinary.org/navlinks/legal/privacy.html)
+<a href="https://sinary.org">
+  <img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" width="20" height="20" alt="SINARY" align="middle">
+  <strong>Official Site: sinary.org</strong>
+</a>
+
+<br>
+
+💖 <strong>Support & Donate:</strong> <a href="https://sinary.org/donate/">sinary.org/donate</a><br>
+📜 <strong>Privacy & Terms:</strong> <a href="https://sinary.org/navlinks/legal/privacy.html">Privacy & Terms</a>
 
 </div>
