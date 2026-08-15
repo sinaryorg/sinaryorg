@@ -93,16 +93,14 @@ Access practical online web tools directly on **[sinary.org/navlinks/tools](http
 
 <div align="center">
 
-### Connect with SINARY
+### 🌐 Connect with SINARY
 
-<a href="https://sinary.org">
-  <img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" width="20" height="20" alt="SINARY" align="middle">
-  <strong>Official Site: sinary.org</strong>
-</a>
+[![Official Site](https://img.shields.io/badge/Official_Site-sinary.org-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinary.org)
 
-<br>
+[![Support & Donate](https://img.shields.io/badge/Support_%26_Donate-sinary.org%2Fdonate-06B6D4?style=for-the-badge&logo=heart&logoColor=white)](https://sinary.org/donate/)
 
-💖 <strong>Support & Donate:</strong> <a href="https://sinary.org/donate/">sinary.org/donate</a><br>
-📜 <strong>Privacy & Terms:</strong> <a href="https://sinary.org/navlinks/legal/privacy.html">Privacy & Terms</a>
+[![Privacy & Terms](https://img.shields.io/badge/Privacy_%26_Terms-View_Details-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white)](https://sinary.org/navlinks/legal/privacy.html)
+
+*Crafted with ❤️ by SINARY*
 
 </div>
