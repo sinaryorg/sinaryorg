@@ -75,12 +75,13 @@ Access practical online web tools directly on **[sinary.org/navlinks/tools](http
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinaryorg&show_icons=true&theme=cyan&count_private=true&hide_border=true" alt="SINARY GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaryorg&layout=compact&theme=cyan&hide_border=true" alt="Top Languages" height="175" />
+![GitHub Repositories](https://img.shields.io/github/repositories/sinaryorg?style=for-the-badge&logo=github&color=06B6D4&labelColor=181717)
+![GitHub Followers](https://img.shields.io/github/followers/sinaryorg?style=for-the-badge&logo=github&color=06B6D4&labelColor=181717)
+![GitHub Stars](https://img.shields.io/github/stars/sinaryorg/kagaz?style=for-the-badge&logo=github&color=06B6D4&labelColor=181717)
 
 </div>
 
