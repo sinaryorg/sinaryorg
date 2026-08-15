@@ -58,7 +58,6 @@ Official applications developed and maintained by the **SINARY** team:
         <a href="https://sinary.org/navlinks/apps/kagaz.html">Download</a>
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img src="https://sinary.org/assets/images/remine_me/remine_me_logo.png" width="36" height="36" alt="Remine Me">
@@ -76,7 +75,6 @@ Official applications developed and maintained by the **SINARY** team:
         <a href="https://sinary.org/navlinks/apps/remine_me.html">Download App</a>
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img src="https://sinary.org/assets/images/brass_browser/brass_browser_logo.png" width="36" height="36" alt="Brass Browser">
@@ -94,7 +92,6 @@ Official applications developed and maintained by the **SINARY** team:
         <a href="https://sinary.org/navlinks/apps/brass_browser.html">Download App</a>
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img src="https://sinary.org/assets/images/metalobs/metalobs_logo.png" width="36" height="36" alt="MetalOBS">
@@ -112,7 +109,6 @@ Official applications developed and maintained by the **SINARY** team:
         <a href="https://sinary.org/navlinks/apps/metalobs.html">Download App</a>
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img src="https://sinary.org/assets/images/riff/riff_logo.png" width="36" height="36" alt="Riff">
@@ -130,7 +126,6 @@ Official applications developed and maintained by the **SINARY** team:
         <a href="https://sinary.org/navlinks/apps/riff.html">Download App</a>
       </td>
     </tr>
-
     <tr>
       <td align="center">
         <img src="https://sinary.org/assets/images/stream_notifier/stream_notifier_logo.png" width="36" height="36" alt="Stream Notifier">
