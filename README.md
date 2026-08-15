@@ -1,11 +1,15 @@
 <div align="center">
 
-# 🌐 SINARY ([@sinaryorg](https://github.com/sinaryorg))
+  <a href="https://sinary.org">
+    <img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" alt="SINARY Emblem Logo" width="120" />
+  </a>
 
-### **Your All-in-One Digital Ecosystem | News, Apps, Tools & Community**
+  # SINARY ([@sinaryorg](https://github.com/sinaryorg))
 
-[![Website](https://img.shields.io/badge/Official_Website-sinary.org-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinary.org)
-[![GitHub](https://img.shields.io/badge/GitHub-sinaryorg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
+  ### **Your All-in-One Digital Ecosystem | News, Apps, Tools & Community**
+
+  [![Website](https://img.shields.io/badge/Official_Website-sinary.org-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinary.org)
+  [![GitHub](https://img.shields.io/badge/GitHub-sinaryorg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
 
 <br/>
 
