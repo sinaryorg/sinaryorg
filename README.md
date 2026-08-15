@@ -29,16 +29,14 @@
 
 Official applications developed and maintained by the **SINARY** team:
 
-| Logo | App | Description | Platform | Link |
-|:---:|:---:|:---|:---:|:---:|
 <table>
   <thead>
     <tr>
-      <th width="70">Logo</th>
-      <th width="150">App</th>
+      <th align="center">Logo</th>
+      <th align="center">App</th>
       <th>Description</th>
-      <th width="130">Platform</th>
-      <th width="150">Link</th>
+      <th align="center">Platform</th>
+      <th align="center">Link</th>
     </tr>
   </thead>
   <tbody>
