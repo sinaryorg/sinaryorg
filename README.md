@@ -79,9 +79,9 @@ Access practical online web tools directly on **[sinary.org/navlinks/tools](http
 
 <div align="center">
 
-[![GitHub Repositories](https://img.shields.io/github/repos/sinaryorg?style=for-the-badge&logo=github&color=06B6D4&labelColor=181717)](https://github.com/sinaryorg?tab=repositories)
-[![GitHub Followers](https://img.shields.io/github/followers/sinaryorg?style=for-the-badge&logo=github&color=06B6D4&labelColor=181717)](https://github.com/sinaryorg?tab=followers)
-[![Kagaz Stars](https://img.shields.io/github/stars/sinaryorg/kagaz?style=for-the-badge&logo=github&color=06B6D4&labelColor=181717)](https://github.com/sinaryorg/kagaz)
+[![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-sinaryorg-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
+[![SINARY Ecosystem](https://img.shields.io/badge/Ecosystem-6_Active_Apps-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinary.org/navlinks/apps/index.html)
+[![Kagaz Desktop App](https://img.shields.io/badge/Featured_App-Kagaz-06B6D4?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/sinaryorg/kagaz)
 
 </div>
 
