@@ -1,12 +1,11 @@
 <div align="center">
 
-  <a href="https://sinary.org">
-    <img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" alt="SINARY Emblem Logo" width="120" />
-  </a>
+  <h1>
+    <img src="https://sinary.org/assets/logo/sinary-emblem-clean.svg" alt="SINARY Logo" width="44" height="44" style="vertical-align: middle; margin-right: 8px;" />
+    SINARY <span style="font-weight: normal; font-size: 80%;">(@sinaryorg)</span>
+  </h1>
 
-  # SINARY ([@sinaryorg](https://github.com/sinaryorg))
-
-  ### **Your All-in-One Digital Ecosystem | News, Apps, Tools & Community**
+  <h3>Your All-in-One Digital Ecosystem | News, Apps, Tools & Community</h3>
 
   [![Website](https://img.shields.io/badge/Official_Website-sinary.org-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinary.org)
   [![GitHub](https://img.shields.io/badge/GitHub-sinaryorg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
