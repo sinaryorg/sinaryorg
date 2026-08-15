@@ -29,85 +29,14 @@
 
 Official applications developed and maintained by the **SINARY** team:
 
-<div align="center">
-
-<a href="https://sinary.org/navlinks/apps/kagaz.html">
-  <img src="https://sinary.org/assets/images/kagaz/kaga_logo.png" width="32" height="32" alt="Kagaz" align="middle">
-  <strong>Kagaz</strong>
-</a>
-&nbsp;&nbsp;
-<a href="https://sinary.org/navlinks/apps/remine_me.html">
-  <img src="https://sinary.org/assets/images/remine_me/remine_me_logo.png" width="32" height="32" alt="Remine Me" align="middle">
-  <strong>Remine Me</strong>
-</a>
-&nbsp;&nbsp;
-<a href="https://sinary.org/navlinks/apps/brass_browser.html">
-  <img src="https://sinary.org/assets/images/brass_browser/brass_browser_logo.png" width="32" height="32" alt="Brass Browser" align="middle">
-  <strong>Brass Browser</strong>
-</a>
-&nbsp;&nbsp;
-<a href="https://sinary.org/navlinks/apps/metalobs.html">
-  <img src="https://sinary.org/assets/images/metalobs/metalobs_logo.png" width="32" height="32" alt="MetalOBS" align="middle">
-  <strong>MetalOBS</strong>
-</a>
-&nbsp;&nbsp;
-<a href="https://sinary.org/navlinks/apps/riff.html">
-  <img src="https://sinary.org/assets/images/riff/riff_logo.png" width="32" height="32" alt="Riff" align="middle">
-  <strong>Riff</strong>
-</a>
-&nbsp;&nbsp;
-<a href="https://sinary.org/navlinks/apps/stream_notifier.html">
-  <img src="https://sinary.org/assets/images/stream_notifier/stream_notifier_logo.png" width="32" height="32" alt="Stream Notifier" align="middle">
-  <strong>Stream Notifier</strong>
-</a>
-
-<br><br>
-
-[![Kagaz](https://img.shields.io/badge/Kagaz-Desktop-06B6D4?style=for-the-badge)](https://sinary.org/navlinks/apps/kagaz.html)
-[![Remine Me](https://img.shields.io/badge/Remine_Me-Desktop_%2F_Android-06B6D4?style=for-the-badge)](https://sinary.org/navlinks/apps/remine_me.html)
-[![Brass Browser](https://img.shields.io/badge/Brass_Browser-Desktop-06B6D4?style=for-the-badge)](https://sinary.org/navlinks/apps/brass_browser.html)
-[![MetalOBS](https://img.shields.io/badge/MetalOBS-Desktop-06B6D4?style=for-the-badge)](https://sinary.org/navlinks/apps/metalobs.html)
-[![Riff](https://img.shields.io/badge/Riff-Desktop_%2F_Android-06B6D4?style=for-the-badge)](https://sinary.org/navlinks/apps/riff.html)
-[![Stream Notifier](https://img.shields.io/badge/Stream_Notifier-Desktop_%2F_Android-06B6D4?style=for-the-badge)](https://sinary.org/navlinks/apps/stream_notifier.html)
-
-</div>
-
-### 🪶 Kagaz
-
-All-in-one local workspace with block editing, interactive graph view, multi-view database tables, and a web browser drawer.
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg/kagaz)
-[![Download](https://img.shields.io/badge/Download-06B6D4?style=for-the-badge&logo=download&logoColor=white)](https://sinary.org/navlinks/apps/kagaz.html)
-
-### 🔔 Remine Me
-
-Track subscriptions and never miss a renewal. Manage billing cycles, smart reminders, and local data privacy.
-
-[![Download App](https://img.shields.io/badge/Download_App-06B6D4?style=for-the-badge&logo=android&logoColor=white)](https://sinary.org/navlinks/apps/remine_me.html)
-
-### 🌐 Brass Browser
-
-Experience the web with speed and privacy, featuring built-in ad blocking, data protection, and fast navigation.
-
-[![Download App](https://img.shields.io/badge/Download_App-06B6D4?style=for-the-badge&logo=download&logoColor=white)](https://sinary.org/navlinks/apps/brass_browser.html)
-
-### 🎥 MetalOBS
-
-All-in-one streaming and recording studio with dual-canvas support, AI background removal, and multi-platform streaming.
-
-[![Download App](https://img.shields.io/badge/Download_App-06B6D4?style=for-the-badge&logo=download&logoColor=white)](https://sinary.org/navlinks/apps/metalobs.html)
-
-### 🎵 Riff
-
-Music and video player for building your media library, searching effortlessly, and enjoying your content.
-
-[![Download App](https://img.shields.io/badge/Download_App-06B6D4?style=for-the-badge&logo=android&logoColor=white)](https://sinary.org/navlinks/apps/riff.html)
-
-### 📡 Stream Notifier
-
-Real-time live-stream notifications for your favorite creators across Twitch, YouTube, and more.
-
-[![Download App](https://img.shields.io/badge/Download_App-06B6D4?style=for-the-badge&logo=download&logoColor=white)](https://sinary.org/navlinks/apps/stream_notifier.html)
+| App | Description | Platform | Link |
+|:---|:---|:---:|:---:|
+| <img src="https://sinary.org/assets/images/kagaz/kaga_logo.png" width="36" height="36" alt="Kagaz" align="middle"> **Kagaz** | All-in-one local workspace with block editing, interactive graph view, multi-view database tables, and a web browser drawer. | **Desktop** | [GitHub Repo](https://github.com/sinaryorg/kagaz) • [Download](https://sinary.org/navlinks/apps/kagaz.html) |
+| <img src="https://sinary.org/assets/images/remine_me/remine_me_logo.png" width="36" height="36" alt="Remine Me" align="middle"> &nbsp; **Remine Me** | Track subscriptions and never miss a renewal. Manage billing cycles, smart reminders, and local data privacy. | **Desktop / Android** | [Download App](https://sinary.org/navlinks/apps/remine_me.html) |
+| <img src="https://sinary.org/assets/images/brass_browser/brass_browser_logo.png" width="36" height="36" alt="Brass Browser" align="middle"> &nbsp; **Brass Browser** | Experience the web with speed and privacy, featuring built-in ad blocking, data protection, and fast navigation. | **Desktop** | [Download App](https://sinary.org/navlinks/apps/brass_browser.html) |
+| <img src="https://sinary.org/assets/images/metalobs/metalobs_logo.png" width="36" height="36" alt="MetalOBS" align="middle"> &nbsp; **MetalOBS** | All-in-one streaming and recording studio with dual-canvas support, AI background removal, and multi-platform streaming. | **Desktop** | [Download App](https://sinary.org/navlinks/apps/metalobs.html) |
+| <img src="https://sinary.org/assets/images/riff/riff_logo.png" width="36" height="36" alt="Riff" align="middle"> &nbsp; **Riff** | Music and video player for building your media library, searching effortlessly, and enjoying your content. | **Desktop / Android** | [Download App](https://sinary.org/navlinks/apps/riff.html) |
+| <img src="https://sinary.org/assets/images/stream_notifier/stream_notifier_logo.png" width="36" height="36" alt="Stream Notifier" align="middle"> &nbsp; **Stream Notifier** | Real-time live-stream notifications for your favorite creators across Twitch, YouTube, and more. | **Desktop / Android** | [Download App](https://sinary.org/navlinks/apps/stream_notifier.html) |
 
 ---
 
