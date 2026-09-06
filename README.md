@@ -34,26 +34,12 @@ A growing collection of applications and extensions developed and maintained by 
 | Logo | App | Description | Platform | Link |
 |:---:|:---:|:---|:---:|:---:|
 | <img src="https://sinary.org/assets/images/kagaz/kaga_logo.png" width="40" height="40" alt="Kagaz"> | **[Kagaz](https://sinary.org/navlinks/apps/kagaz.html)** | A local-first workspace combining block editing, interactive graph views, database tables, and an integrated web browser. | **Desktop** | [GitHub](https://github.com/sinaryorg/kagaz) · [Download](https://sinary.org/navlinks/apps/kagaz.html) |
-| <img src="https://sinary.org/assets/images/autobookmark/autobookmark_logo.png" width="40" height="40" alt="AutoBookmark"> | **[AutoBookmark](https://github.com/sinaryorg/chrome-autobookmark-extension)** | Intelligent bookmark management extension with automatic organization, fast search, and native cross-browser support. | **Browser Extension** | [GitHub](https://github.com/sinaryorg/chrome-autobookmark-extension) |
+| <img src="https://sinary.org/assets/images/autobookmark/autobookmark_logo.png" width="40" height="40" alt="AutoBookmark"> | **[AutoBookmark](https://github.com/sinaryorg/chrome-autobookmark-extension/blob/main/icons/store_logo_300.png)** | Intelligent bookmark management extension with automatic organization, fast search, and native cross-browser support. | **Browser Extension** | [GitHub](https://github.com/sinaryorg/chrome-autobookmark-extension) |
 | <img src="https://sinary.org/assets/images/remine_me/remine_me_logo.png" width="40" height="40" alt="Remine Me"> | **[Remine Me](https://sinary.org/navlinks/apps/remine_me.html)** | Subscription and renewal tracker with billing-cycle management, reminders, and local data privacy. | **Desktop / Android** | [Download](https://sinary.org/navlinks/apps/remine_me.html) |
 | <img src="https://sinary.org/assets/images/brass_browser/brass_browser_logo.png" width="40" height="40" alt="Brass Browser"> | **[Brass Browser](https://sinary.org/navlinks/apps/brass_browser.html)** | A fast, privacy-focused browser with built-in ad blocking, data protection, and fast navigation. | **Desktop** | [Download](https://sinary.org/navlinks/apps/brass_browser.html) |
 | <img src="https://sinary.org/assets/images/metalobs/metalobs_logo.png" width="40" height="40" alt="MetalOBS"> | **[MetalOBS](https://sinary.org/navlinks/apps/metalobs.html)** | Streaming and recording studio with dual-canvas workflows, AI background removal, and multi-platform streaming. | **Desktop** | [Download](https://sinary.org/navlinks/apps/metalobs.html) |
 | <img src="https://sinary.org/assets/images/riff/riff_logo.png" width="40" height="40" alt="Riff"> | **[Riff](https://sinary.org/navlinks/apps/riff.html)** | Music and video player designed for building and managing your personal media library. | **Desktop / Android** | [Download](https://sinary.org/navlinks/apps/riff.html) |
 | <img src="https://sinary.org/assets/images/stream_notifier/stream_notifier_logo.png" width="40" height="40" alt="Stream Notifier"> | **[Stream Notifier](https://sinary.org/navlinks/apps/stream_notifier.html)** | Real-time notifications for live streams and creators across Twitch, YouTube, and more. | **Desktop / Android** | [Download](https://sinary.org/navlinks/apps/stream_notifier.html) |
-
----
-
-### 🧩 Browser Extensions — AutoBookmark
-
-**[AutoBookmark](https://github.com/sinaryorg/chrome-autobookmark-extension)** is engineered with cross-browser compatibility and runs natively across all modern desktop browsers:
-
-- ✅ **Google Chrome**
-- ✅ **Microsoft Edge**
-- ✅ **Mozilla Firefox**
-- ✅ **Opera & Opera GX**
-- ✅ **Brave Browser**
-- ✅ **Vivaldi**
-- ✅ **Arc Browser**
 
 ---
 
