@@ -9,7 +9,13 @@
   ### **A growing ecosystem of apps, tools & digital experiences**
 
   [![Website](https://img.shields.io/badge/Official_Website-sinary.org-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinary.org)
+  [![Game News](https://img.shields.io/badge/🎮_Game_News-game.sinary.org-E11D48?style=for-the-badge)](https://game.sinary.org)
+  [![SINARY News](https://img.shields.io/badge/📰_SINARY_News-news.sinary.org-06B6D4?style=for-the-badge)](https://news.sinary.org)
   [![GitHub](https://img.shields.io/badge/GitHub-sinaryorg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
+
+  <br/>
+
+  🎮 **[game.sinary.org](https://game.sinary.org)** &nbsp;·&nbsp; 📰 **[news.sinary.org](https://news.sinary.org)**
 
   <br/>
 
