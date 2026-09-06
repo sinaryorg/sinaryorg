@@ -13,7 +13,7 @@
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vcenter=true&width=780&lines=Building+the+SINARY+ecosystem...;Desktop+apps+%7C+Android+apps+%7C+Web+tools;Kagaz+%7C+Remine+Me+%7C+MetalOBS+%7C+Riff;Independent+software+%26+digital+experiences!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vcenter=true&width=780&lines=Building+the+SINARY+ecosystem...;Desktop+apps+%7C+Android+apps+%7C+Browser+Extensions;game.sinary.org+%7C+news.sinary.org;Kagaz+%7C+AutoBookmark+%7C+Remine+Me+%7C+MetalOBS;Independent+software+%26+digital+experiences!)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,19 +21,20 @@
 
 ## 🚀 About SINARY
 
-**[SINARY](https://sinary.org)** is an independent digital ecosystem focused on building useful applications, web tools, and digital experiences.
+**[SINARY](https://sinary.org)** is an independent digital ecosystem focused on building useful applications, web tools, news platforms, and digital experiences.
 
-From productivity and media to streaming, privacy, and everyday utilities, SINARY brings together a growing collection of software designed to be practical, accessible, and user-focused.
+From productivity and media to streaming, privacy, browser extensions, and specialized news networks, SINARY brings together a growing collection of software designed to be practical, accessible, and user-focused.
 
 ---
 
 ## 📱 SINARY Apps Ecosystem
 
-A growing collection of applications developed and maintained by the **SINARY** team.
+A growing collection of applications and extensions developed and maintained by the **SINARY** team.
 
 | Logo | App | Description | Platform | Link |
 |:---:|:---:|:---|:---:|:---:|
 | <img src="https://sinary.org/assets/images/kagaz/kaga_logo.png" width="40" height="40" alt="Kagaz"> | **[Kagaz](https://sinary.org/navlinks/apps/kagaz.html)** | A local-first workspace combining block editing, interactive graph views, database tables, and an integrated web browser. | **Desktop** | [GitHub](https://github.com/sinaryorg/kagaz) · [Download](https://sinary.org/navlinks/apps/kagaz.html) |
+| <img src="https://sinary.org/assets/images/autobookmark/autobookmark_logo.png" width="40" height="40" alt="AutoBookmark"> | **[AutoBookmark](https://github.com/sinaryorg/chrome-autobookmark-extension)** | Intelligent bookmark management extension with automatic organization, fast search, and native cross-browser support. | **Browser Extension** | [GitHub](https://github.com/sinaryorg/chrome-autobookmark-extension) |
 | <img src="https://sinary.org/assets/images/remine_me/remine_me_logo.png" width="40" height="40" alt="Remine Me"> | **[Remine Me](https://sinary.org/navlinks/apps/remine_me.html)** | Subscription and renewal tracker with billing-cycle management, reminders, and local data privacy. | **Desktop / Android** | [Download](https://sinary.org/navlinks/apps/remine_me.html) |
 | <img src="https://sinary.org/assets/images/brass_browser/brass_browser_logo.png" width="40" height="40" alt="Brass Browser"> | **[Brass Browser](https://sinary.org/navlinks/apps/brass_browser.html)** | A fast, privacy-focused browser with built-in ad blocking, data protection, and fast navigation. | **Desktop** | [Download](https://sinary.org/navlinks/apps/brass_browser.html) |
 | <img src="https://sinary.org/assets/images/metalobs/metalobs_logo.png" width="40" height="40" alt="MetalOBS"> | **[MetalOBS](https://sinary.org/navlinks/apps/metalobs.html)** | Streaming and recording studio with dual-canvas workflows, AI background removal, and multi-platform streaming. | **Desktop** | [Download](https://sinary.org/navlinks/apps/metalobs.html) |
@@ -42,24 +43,48 @@ A growing collection of applications developed and maintained by the **SINARY** 
 
 ---
 
-### ✨ The Ecosystem
+### 🧩 Browser Extensions — AutoBookmark
 
-| 📝 Productivity | 🎥 Creator Tools | 🎵 Media | 🌐 Web |
-|:---:|:---:|:---:|:---:|
-| **Kagaz** | **MetalOBS** | **Riff** | **Brass Browser** |
-| **Remine Me** | **Stream Notifier** | | |
+**[AutoBookmark](https://github.com/sinaryorg/chrome-autobookmark-extension)** is engineered with cross-browser compatibility and runs natively across all modern desktop browsers:
+
+- ✅ **Google Chrome**
+- ✅ **Microsoft Edge**
+- ✅ **Mozilla Firefox**
+- ✅ **Opera & Opera GX**
+- ✅ **Brave Browser**
+- ✅ **Vivaldi**
+- ✅ **Arc Browser**
 
 ---
 
-## 🌐 Web Tools & Digital Services
+### ✨ The Ecosystem
 
-Practical browser-based tools and services available through **[SINARY Web Tools](https://sinary.org/navlinks/tools/index.html)**.
+| 📝 Productivity | 🎥 Creator Tools | 🎵 Media | 🌐 Web & Extensions |
+|:---:|:---:|:---:|:---:|
+| **Kagaz** | **MetalOBS** | **Riff** | **Brass Browser** |
+| **Remine Me** | **Stream Notifier** | | **AutoBookmark** |
+
+---
+
+## 🌐 Web Portals & Digital Services
+
+Online destinations, specialized news networks, and practical browser-based tools across the **SINARY** network.
+
+### 📰 News & Media Networks
+
+| Portal | URL | Description | Coverage |
+|:---|:---:|:---|:---|
+| 🎮 **SINARY Game News** | **[game.sinary.org](https://game.sinary.org)** | Dedicated gaming journalism portal covering game releases, industry developments, reviews, and esports updates. | Gaming News, Game Releases, Esports, Reviews |
+| 📰 **SINARY News** | **[news.sinary.org](https://news.sinary.org)** | Up-to-date general news network focusing on technology breakthroughs, social media trends, gadgets, and digital culture. | Tech, Social Media, Gadgets, Digital Trends |
+
+### 🛠️ Web Tools
+
+Practical browser-based utilities available through **[SINARY Web Tools](https://sinary.org/navlinks/tools/index.html)**.
 
 | Tool | Purpose |
 |:---|:---|
-| 📄 **PDF Tools** | Compress, optimize, and work with PDF files. |
-| 🖼️ **Image Converter** | Convert images between common formats directly in your browser. |
-| 📰 **Tech News** | Curated technology news, announcements, and ecosystem updates. |
+| 📄 **PDF Tools** | Compress, optimize, and work with PDF files directly in your browser. |
+| 🖼️ **Image Converter** | Convert images between common formats with fast, client-side processing. |
 
 ---
 
@@ -86,6 +111,7 @@ Practical browser-based tools and services available through **[SINARY Web Tools
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Cross-Browser](https://img.shields.io/badge/Cross--Browser_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ### Development Tools
 
@@ -103,10 +129,12 @@ Practical browser-based tools and services available through **[SINARY Web Tools
 
 | | |
 |:---:|:---:|
-| 📱 **6** | **Active Applications** |
+| 📱 **7** | **Active Applications & Extensions** |
 | 💻 **Desktop** | **Windows Applications** |
 | 📱 **Android** | **Mobile Applications** |
-| 🌐 **Web** | **Online Tools & Services** |
+| 🧩 **Extensions** | **Cross-Browser Extension (Chrome, Edge, Firefox, Brave, Arc, Opera, Vivaldi)** |
+| 📰 **News Portals** | **Dedicated Gaming & Tech News Networks** |
+| 🌐 **Web** | **Online Tools & Digital Services** |
 
 </div>
 
@@ -118,6 +146,8 @@ Practical browser-based tools and services available through **[SINARY Web Tools
 
 [![Website](https://img.shields.io/badge/🌐_SINARY_Website-06B6D4?style=for-the-badge)](https://sinary.org)
 [![Apps](https://img.shields.io/badge/📱_Explore_Apps-06B6D4?style=for-the-badge)](https://sinary.org/navlinks/apps/index.html)
+[![Game News](https://img.shields.io/badge/🎮_Game_News-game.sinary.org-E11D48?style=for-the-badge)](https://game.sinary.org)
+[![SINARY News](https://img.shields.io/badge/📰_SINARY_News-news.sinary.org-06B6D4?style=for-the-badge)](https://news.sinary.org)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
 [![Donate](https://img.shields.io/badge/❤️_Support_SINARY-06B6D4?style=for-the-badge)](https://sinary.org/donate/)
 
@@ -131,6 +161,8 @@ Practical browser-based tools and services available through **[SINARY Web Tools
 
 **[Website](https://sinary.org)** ·
 **[Apps](https://sinary.org/navlinks/apps/index.html)** ·
+**[Game News](https://game.sinary.org)** ·
+**[SINARY News](https://news.sinary.org)** ·
 **[GitHub](https://github.com/sinaryorg)** ·
 **[Support & Donate](https://sinary.org/donate/)**
 
