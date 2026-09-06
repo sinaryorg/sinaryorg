@@ -13,12 +13,6 @@
   [![SINARY News](https://img.shields.io/badge/📰_SINARY_News-news.sinary.org-06B6D4?style=for-the-badge)](https://news.sinary.org)
   [![GitHub](https://img.shields.io/badge/GitHub-sinaryorg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
 
-  <br/>
-
-  🎮 **[game.sinary.org](https://game.sinary.org)** &nbsp;·&nbsp; 📰 **[news.sinary.org](https://news.sinary.org)**
-
-  <br/>
-
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vcenter=true&width=780&lines=Building+the+SINARY+ecosystem...;Desktop+apps+%7C+Android+apps+%7C+Browser+Extensions;game.sinary.org+%7C+news.sinary.org;Kagaz+%7C+AutoBookmark+%7C+Remine+Me+%7C+MetalOBS;Independent+software+%26+digital+experiences!)](https://git.io/typing-svg)
 
 </div>
