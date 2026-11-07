@@ -6,7 +6,7 @@
 
   # SINARY ([@sinaryorg](https://github.com/sinaryorg))
 
-  ### **A growing ecosystem of desktop software, developer tools, web platforms & indie games**
+  ### **A growing ecosystem of desktop software, systems developer tools, web platforms & indie games**
 
   [![Website](https://img.shields.io/badge/Official_Website-sinary.org-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinary.org)
   [![The Sinary Chronicle](https://img.shields.io/badge/📜_Chronicle-gazette-F59E0B?style=for-the-badge)](https://sinary.org/navlinks/news/gazette.html)
@@ -14,7 +14,7 @@
   [![SINARY News](https://img.shields.io/badge/📰_SINARY_News-news.sinary.org-06B6D4?style=for-the-badge)](https://news.sinary.org)
   [![GitHub](https://img.shields.io/badge/GitHub-sinaryorg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vcenter=true&width=840&lines=Building+the+SINARY+ecosystem...;Desktop+Apps+%7C+Rust+WASAPI+CLI+%7C+Web+Extensions;The+Lighthouse+Keeper+PC+Game+on+Microsoft+Store;Kagaz+%7C+WinAudio+%7C+AutoBookmark+%7C+MetalOBS+%7C+PeekLink;game.sinary.org+%7C+news.sinary.org+%7C+The+Sinary+Chronicle;Independent+software+%26+100%25+local-first+digital+experiences!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vcenter=true&width=860&lines=Building+the+SINARY+ecosystem...;Driverless+Rust+Toolkits:+WinAudio+%26+WinVideo;Desktop+Apps+%7C+Rust+Systems+Engines+%7C+Web+Extensions;The+Lighthouse+Keeper+PC+Game+on+Microsoft+Store;Kagaz+%7C+WinAudio+%7C+WinVideo+%7C+AutoBookmark+%7C+MetalOBS+%7C+PeekLink;game.sinary.org+%7C+news.sinary.org+%7C+The+Sinary+Chronicle;100%25+Local-first+privacy+%26+zero-telemetry+digital+experiences!)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 🚀 About SINARY
 
-**[SINARY](https://sinary.org)** is an independent digital platform dedicated to building practical desktop applications, high-performance developer toolkits, browser extensions, journalism networks, client-side web tools, and atmospheric games.
+**[SINARY](https://sinary.org)** is an independent digital platform dedicated to building practical desktop applications, high-performance systems toolkits, browser extensions, journalism networks, client-side web tools, and atmospheric games.
 
 Guided by principles of **local-first privacy**, **zero telemetry**, and **lightweight performance**, SINARY creates standalone tools engineered for users, creators, developers, and gamers.
 
@@ -30,13 +30,13 @@ Guided by principles of **local-first privacy**, **zero telemetry**, and **light
 
 ## 📱 The Software & Applications Ecosystem
 
-A collection of applications, developer tools, browser extensions, and games developed and maintained across the **SINARY** ecosystem.
+A collection of applications, developer engines, browser extensions, and games developed and maintained across the **SINARY** ecosystem.
 
 ### 💻 Desktop Applications & Workspaces
 
 | Logo | Project | Description | Platform | Links |
 |:---:|:---:|:---|:---:|:---:|
-| <img src="https://sinary.org/assets/images/kagaz/kaga_logo.png" width="40" height="40" alt="Kagaz"> | **[Kagaz](https://sinary.org/navlinks/apps/kagaz.html)** | Local-first minimalist workspace combining block editing, interactive graph view, multi-view database tables, and an integrated browser drawer. | **Desktop** | [GitHub](https://github.com/sinaryorg/kagaz) · [Download](https://sinary.org/navlinks/apps/kagaz.html) |
+| <img src="https://sinary.org/assets/images/kagaz/kaga_logo.png" width="40" height="40" alt="Kagaz"> | **[Kagaz](https://sinary.org/navlinks/apps/kagaz.html)** | Local-first minimalist workspace combining block editing, interactive graph view, multi-view database tables, split editing, and an integrated browser drawer. | **Desktop** | [GitHub](https://github.com/sinaryorg/kagaz) · [Download](https://sinary.org/navlinks/apps/kagaz.html) |
 | <img src="https://sinary.org/assets/images/metalobs/metalobs_logo.png" width="40" height="40" alt="MetalOBS"> | **[MetalOBS](https://sinary.org/navlinks/apps/metalobs.html)** | All-in-one streaming and recording studio with zero plugins required, dual-canvas workflows, AI background removal, and multi-platform streaming. | **Desktop** | [Download](https://sinary.org/navlinks/apps/metalobs.html) |
 | <img src="https://sinary.org/assets/images/brass_browser/brass_browser_logo.png" width="40" height="40" alt="Brass Browser"> | **[Brass Browser](https://sinary.org/navlinks/apps/brass_browser.html)** | Ultra-fast, distraction-free desktop web browser built for privacy with native ad blocking and lightweight tab sandboxing. | **Desktop** | [Download](https://sinary.org/navlinks/apps/brass_browser.html) |
 | <img src="https://sinary.org/assets/images/remine_me/remine_me_logo.png" width="40" height="40" alt="Remine Me"> | **[Remine Me](https://sinary.org/navlinks/apps/remine_me.html)** | Subscription and renewal tracker with billing-cycle analytics, scheduled reminders, and 100% offline local privacy. | **Desktop / Android** | [Download](https://sinary.org/navlinks/apps/remine_me.html) |
@@ -45,18 +45,24 @@ A collection of applications, developer tools, browser extensions, and games dev
 
 ---
 
-### ⚡ Low-Level Systems & Developer Toolkits
+### ⚡ Low-Level Systems & Media Toolkits (Rust & Python)
+
+High-performance, driverless Windows media engines built in pure Rust with PyO3 Python bindings and standalone CLI binaries.
 
 | Logo | Project | Description | Platform | Links |
 |:---:|:---:|:---|:---:|:---:|
-| 🔊 | **[WinAudio](https://github.com/sinaryorg/winaudio)** | Modern per-process Windows audio capture, monitoring, DSP, and WASAPI loopback routing toolkit in Rust (zero virtual audio cables or drivers). Features a standalone CLI, PyO3 Python module, and winget package. | **Windows / Rust / Python** | [GitHub](https://github.com/sinaryorg/winaudio) · [PyPI](https://pypi.org/project/sinary-winaudio/) · [Crates.io](https://crates.io/crates/winaudio-core) |
+| 🔊 | **[WinAudio](https://github.com/sinaryorg/winaudio)** | Modern per-process Windows audio capture, monitoring, DSP, and WASAPI loopback routing in Rust (zero virtual audio cables or drivers). Features process tree resolution, exclusion mode, and real-time MMCSS scheduling. | **Windows / Rust / Python** | [GitHub](https://github.com/sinaryorg/winaudio) · [PyPI](https://pypi.org/project/sinary-winaudio/) · [Crates.io](https://crates.io/crates/winaudio-core) |
+| 🎥 | **[WinVideo](https://github.com/sinaryorg/winvideo)** | Modern, driverless Windows screen and per-window video capture engine in pure Rust (WGC & Direct3D 11). Zero-copy GPU memory extraction at 60–120+ FPS, built-in MFT hardware MP4 encoding, and zero-copy NumPy streaming for AI vision. Companion to WinAudio. | **Windows / Rust / Python** | [GitHub](https://github.com/sinaryorg/winvideo) · [PyPI](https://pypi.org/project/sinary-winvideo/) · [Crates.io](https://crates.io/crates/winvideo-core) |
 
 ```powershell
-# Install WinAudio CLI directly via Windows Package Manager:
-winget install Sinary.WinAudio
+# --- WinAudio Installation ---
+winget install Sinary.WinAudio          # Standalone CLI
+pip install sinary-winaudio             # Python bindings
+cargo install winaudio-cli              # Rust binary
 
-# Or install Python bindings via pip:
-pip install sinary-winaudio
+# --- WinVideo Installation ---
+pip install sinary-winvideo             # Python bindings (with zero-copy NumPy)
+cargo install winvideo-cli              # Rust binary
 ```
 
 ---
@@ -81,11 +87,11 @@ pip install sinary-winaudio
 
 ### ✨ The Ecosystem at a Glance
 
-| 📝 Productivity & Notes | 🎥 Creator & Stream Tools | 🔊 Audio & Systems | 🌐 Web & Extensions | 🎮 Games |
+| 📝 Productivity & Notes | 🎥 Creator & Stream Tools | ⚡ Systems & Media Toolkits | 🌐 Web & Extensions | 🎮 Games |
 |:---:|:---:|:---:|:---:|:---:|
-| **Kagaz** | **MetalOBS** | **WinAudio** | **AutoBookmark** | **The Lighthouse Keeper** |
-| **Remine Me** | **Stream Notifier** | **Riff** | **PeekLink** | |
-| | **Helper Add-on** | | **Brass Browser** | |
+| **Kagaz** | **MetalOBS** | **WinAudio** (Rust) | **AutoBookmark** | **The Lighthouse Keeper** |
+| **Remine Me** | **Stream Notifier** | **WinVideo** (Rust) | **PeekLink** | |
+| | **Helper Add-on** | **Riff** | **Brass Browser** | |
 
 ---
 
@@ -125,6 +131,14 @@ High-performance utilities available at **[SINARY Web Tools](https://sinary.org/
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### Low-Level Media & Windows APIs
+
+![Direct3D 11](https://img.shields.io/badge/Direct3D_11-Hardware_Accel-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![WGC](https://img.shields.io/badge/Windows_Graphics_Capture-Zero--Copy-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![WASAPI](https://img.shields.io/badge/WASAPI-Process_Loopback-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Media Foundation](https://img.shields.io/badge/Media_Foundation-Hardware_MFT_MP4-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![PyO3](https://img.shields.io/badge/PyO3-Native_Python_C_Ext-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### Frameworks, Engines & Runtimes
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -140,7 +154,7 @@ High-performance utilities available at **[SINARY Web Tools](https://sinary.org/
 ![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![WinGet](https://img.shields.io/badge/WinGet-Package_Manager-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Crates.io](https://img.shields.io/badge/Crates.io-Rust_Packages-dea584?style=for-the-badge&logo=rust&logoColor=black)
-![PyPI](https://img.shields.io/badge/PyPI-Python_Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-Python_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Cross-Browser](https://img.shields.io/badge/Cross--Browser_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
@@ -154,11 +168,12 @@ High-performance utilities available at **[SINARY Web Tools](https://sinary.org/
 
 | Metric | Details |
 |:---:|:---|
-| 📱 **10+ Projects** | **Applications, System CLI Engines, Games & Browser Extensions** |
-| 💻 **Desktop Ecosystem** | **Windows Software, WASAPI Audio Capture Engine, Local Workspaces** |
-| 🎮 **Indie PC Gaming** | **The Lighthouse Keeper (Published on Microsoft Store)** |
+| 📱 **11+ Active Projects** | **Desktop Workspaces, Low-Level Media Toolkits, PC Games & Web Extensions** |
+| ⚡ **Systems Media Stack** | **WinAudio (WASAPI audio loopback) + WinVideo (Direct3D 11 zero-copy video)** |
+| 💻 **Desktop Ecosystem** | **Windows Software, Minimalist Workspaces, Streaming Studios, Privacy Browsers** |
+| 🎮 **Indie PC Gaming** | **The Lighthouse Keeper (Published on the Microsoft Store)** |
 | 🧩 **Browser Extensions** | **AutoBookmark & PeekLink (Chrome, Edge, Firefox, Brave, Arc, Opera)** |
-| 📦 **Package Repositories** | **WinGet (`Sinary.WinAudio`), Crates.io, PyPI (`sinary-winaudio`)** |
+| 📦 **Package Distribution** | **WinGet (`Sinary.WinAudio`), Crates.io (`winaudio-*`, `winvideo-*`), PyPI (`sinary-winaudio`, `sinary-winvideo`)** |
 | 📰 **3 Media Destinations** | **SINARY Game News, SINARY Tech News, and The Sinary Chronicle (Gazette)** |
 | 🔒 **100% Client-Side Privacy** | **Zero Server Uploads, Local-First In-Browser Utilities** |
 
