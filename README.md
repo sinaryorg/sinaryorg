@@ -85,7 +85,7 @@ cargo install winvideo-cli              # Rust binary
 
 ---
 
-### ✨ The Ecosystem at a Glance
+### ⚙️ The Ecosystem at a Glance
 
 | 📝 Productivity & Notes | 🎥 Creator & Stream Tools | ⚡ Systems & Media Toolkits | 🌐 Web & Extensions | 🎮 Games |
 |:---:|:---:|:---:|:---:|:---:|
