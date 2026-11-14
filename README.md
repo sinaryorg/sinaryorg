@@ -12,6 +12,7 @@
   [![The Sinary Chronicle](https://img.shields.io/badge/📜_Chronicle-gazette-F59E0B?style=for-the-badge)](https://sinary.org/navlinks/news/gazette.html)
   [![Game News](https://img.shields.io/badge/🎮_Game_News-game.sinary.org-E11D48?style=for-the-badge)](https://game.sinary.org)
   [![SINARY News](https://img.shields.io/badge/📰_SINARY_News-news.sinary.org-06B6D4?style=for-the-badge)](https://news.sinary.org)
+  [![India Pulse](https://img.shields.io/badge/🔴_India Pulse-india.sinary.org-06B6D4?style=for-the-badge)](https://india.sinary.org)
   [![GitHub](https://img.shields.io/badge/GitHub-sinaryorg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaryorg)
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vcenter=true&width=860&lines=Building+the+SINARY+ecosystem...;Driverless+Rust+Toolkits:+WinAudio+%26+WinVideo;Desktop+Apps+%7C+Rust+Systems+Engines+%7C+Web+Extensions;The+Lighthouse+Keeper+PC+Game+on+Microsoft+Store;Kagaz+%7C+WinAudio+%7C+WinVideo+%7C+AutoBookmark+%7C+MetalOBS+%7C+PeekLink;game.sinary.org+%7C+news.sinary.org+%7C+The+Sinary+Chronicle;100%25+Local-first+privacy+%26+zero-telemetry+digital+experiences!)](https://git.io/typing-svg)
