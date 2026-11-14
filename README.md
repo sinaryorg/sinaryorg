@@ -74,6 +74,7 @@ cargo install winvideo-cli              # Rust binary
 | <img src="https://raw.githubusercontent.com/sinaryorg/chrome-autobookmark-extension/main/icons/icon128.png" width="40" height="40" alt="AutoBookmark"> | **[AutoBookmark](https://github.com/sinaryorg/chrome-autobookmark-extension)** | Intelligent auto-hiding floating bookmark bar with 4-direction edge docking, smooth hover reveal, drag-and-drop, and 100% Shadow DOM isolation. | **Cross-Browser** | [GitHub](https://github.com/sinaryorg/chrome-autobookmark-extension) · [Edge Store](https://microsoftedge.microsoft.com/addons/detail/autobookmark-%E2%80%94-by-sinary/khedapggmjjlinfojcjebhmecaaikojo) · [Firefox AMO](https://addons.mozilla.org/en-US/firefox/addon/autobookmark-by-sinary/) |
 | <img src="https://raw.githubusercontent.com/sinaryorg/peek-link-chrome-extension/main/icons/icon128.png" width="40" height="40" alt="PeekLink"> | **[PeekLink](https://github.com/sinaryorg/peek-link-chrome-extension)** | Instant cursor-anchored live hover link preview window and Chrome native tabs split view (`Alt+S`) with zero iframe errors or cookie drops. | **Chrome / Edge** | [GitHub](https://github.com/sinaryorg/peek-link-chrome-extension) · [Download](https://github.com/sinaryorg/peek-link-chrome-extension/releases/latest) |
 | 🧩 | **[Helper Add-on](https://github.com/sinaryorg/Helper-Addon)** | Workflow enhancement extension for Blender offering 3D recognized object search, targeted web search, and offline documentation integration. | **Blender Extension** | [GitHub](https://github.com/sinaryorg/Helper-Addon) |
+| <img src="https://raw.githubusercontent.com/sinaryorg/TheaterSplit-Chrome-extension/main/icons/icon128.png" width="40" height="40" alt="PeekLink"> | **[TheaterSplit](https://github.com/sinaryorg/TheaterSplit-Chrome-extension)** | Watch regular YouTube videos on the left while reading, replying, and scrolling comments on the right — bringing Brass Browser's native Theater Split View to Google Chrome and Microsoft Edge. | **Chrome / Edge** | [GitHub](https://github.com/sinaryorg/TheaterSplit-Chrome-extension) · [Download](https://github.com/sinaryorg/TheaterSplit-Chrome-extension/releases/latest) |
 
 ---
 
@@ -92,6 +93,7 @@ cargo install winvideo-cli              # Rust binary
 | **Kagaz** | **MetalOBS** | **WinAudio** (Rust) | **AutoBookmark** | **The Lighthouse Keeper** |
 | **Remine Me** | **Stream Notifier** | **WinVideo** (Rust) | **PeekLink** | |
 | | **Helper Add-on** | **Riff** | **Brass Browser** | |
+| | | | **TheaterSplit** | | | |
 
 ---
 
@@ -105,6 +107,7 @@ Online destinations, specialized journalism networks, and client-side browser ut
 |:---|:---:|:---|:---|
 | 🎮 **SINARY Game News** | **[game.sinary.org](https://game.sinary.org)** | Dedicated gaming journalism portal covering game releases, GTA VI dossiers, hardware reviews, and esports updates. | Gaming News, Benchmarks, Esports, Releases |
 | 📰 **SINARY News** | **[news.sinary.org](https://news.sinary.org)** | Tech and digital culture news network tracking emerging breakthroughs, gadgets, AI, and social media trends. | Tech, Gadgets, Digital Trends, World News |
+| 🔴 **SINARY India Pulse** | **[india.sinary.org](https://india.sinary.org)** | National Intelligence, Real-time Climate & Macroeconomic Observatory | India Pulse |
 | 📜 **The Sinary Chronicle** | **[sinary.org/navlinks/news/gazette.html](https://sinary.org/navlinks/news/gazette.html)** | Official digital press dispatch for platform updates, application release notes, and developer logs. | Official Release Notes, Platform Updates |
 
 ### 🛠️ In-Browser Web Tools (100% Client-Side Privacy)
