@@ -175,9 +175,9 @@ High-performance utilities available at **[SINARY Web Tools](https://sinary.org/
 | ⚡ **Systems Media Stack** | **WinAudio (WASAPI audio loopback) + WinVideo (Direct3D 11 zero-copy video)** |
 | 💻 **Desktop Ecosystem** | **Windows Software, Minimalist Workspaces, Streaming Studios, Privacy Browsers** |
 | 🎮 **Indie PC Gaming** | **The Lighthouse Keeper (Published on the Microsoft Store)** |
-| 🧩 **Browser Extensions** | **AutoBookmark & PeekLink (Chrome, Edge, Firefox, Brave, Arc, Opera)** |
+| 🧩 **Browser Extensions** | **AutoBookmark, PeekLink & TheaterSplit (Chrome, Edge, Firefox, Brave, Arc, Opera)** |
 | 📦 **Package Distribution** | **WinGet (`Sinary.WinAudio`), Crates.io (`winaudio-*`, `winvideo-*`), PyPI (`sinary-winaudio`, `sinary-winvideo`)** |
-| 📰 **3 Media Destinations** | **SINARY Game News, SINARY Tech News, and The Sinary Chronicle (Gazette)** |
+| 📰 **4 Media Destinations** | **SINARY Game News, SINARY Tech News, The Sinary Chronicle (Gazette) & India Pulse** |
 | 🔒 **100% Client-Side Privacy** | **Zero Server Uploads, Local-First In-Browser Utilities** |
 
 </div>
